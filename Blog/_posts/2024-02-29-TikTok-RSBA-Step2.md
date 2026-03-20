@@ -5,7 +5,7 @@ date: 2024-02-29 09:00:00
 description: "Insights from RSBA Step 2"
 tags: methodology, process, step2
 categories: rsba
-featured: true
+featured: false
 related_posts: true
 author: Kathy Meßmer
 ---
