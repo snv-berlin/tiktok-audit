@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🗳️ TikTok's Polish Elections Labels: Only Sometimes, And Only For Some"
+title: "🗳️ (AIF) TikTok's Polish Elections Labels: Only Sometimes, And Only For Some"
 date: 2025-06-09 10:00:00
 description: "TikTok's systematic failures in applying election information labels during Poland's 2025 Presidential Election"
 tags: analysis, elections, labels

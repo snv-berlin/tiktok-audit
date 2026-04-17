@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "♻️ Prompt, Upload, Repeat: Agentic AI Accounts on TikTok"
+title: "♻️ (AIF) Prompt, Upload, Repeat: Agentic AI Accounts on TikTok"
 date: 2025-12-03 10:00:00
 description: "354 accounts posting AI-generated content amassed 4.5 billion views with content TikTok barely labeled"
 tags: analysis, AI, ads

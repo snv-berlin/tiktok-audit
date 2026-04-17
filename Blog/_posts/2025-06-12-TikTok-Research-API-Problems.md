@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "❓ TikTok's Research API: Problems without Explanations"
+title: "❓ (AIF) TikTok's Research API: Problems without Explanations"
 date: 2025-06-12 10:00:00
 description: "TikTok's Research API fails to provide metadata for one in eight videos, undermining independent research"
 tags: methodology, analysis, API

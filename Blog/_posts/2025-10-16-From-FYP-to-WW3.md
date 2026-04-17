@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🪖 From FYP to WW3"
+title: "🪖 (AIF) From FYP to WW3"
 date: 2025-10-18 10:00:00
 description: "How TikTok's For You Page amplified war speculation and military content during the 2025 NATO Summit"
 tags: analysis, FYP, elections

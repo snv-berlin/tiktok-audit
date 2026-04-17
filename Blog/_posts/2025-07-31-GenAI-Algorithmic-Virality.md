@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🤖 AI Generated Algorithmic Virality"
+title: "🤖 (AIF) AI Generated Algorithmic Virality"
 date: 2025-07-31 10:00:00
 description: "25% of TikTok's top search results contain synthetic AI imagery — and most of it goes unlabeled"
 tags: analysis, AI, ads
